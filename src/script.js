@@ -19,5 +19,5 @@ function calcularIdade() {
     let idade = anoAtual - anoNascimento;
 
    
-            document.getElementById("resultado").innerHTML = `A sua idade é ${idade} anos.`;
+            document.getElementById("resultado").innerHTML = `A idade é ${idade} anos.`;
         }
